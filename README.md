@@ -27,10 +27,16 @@ OPEN_AI_API_KEY=YOUR_OPENAI_API_KEY
 
 ## Usage
 
-Run the bot with the following command:
+Run the bot in developer mode with the following command:
 
 ```bash
 npm run dev
+```
+
+Run the bot in production mode with the following command:
+
+```bash
+npm start
 ```
 
 The bot will start listening for messages on Telegram. You can interact with it by sending messages to the bot in a Telegram chat.

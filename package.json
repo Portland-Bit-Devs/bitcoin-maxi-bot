@@ -6,7 +6,8 @@
   "author": "Andrew Chalkley <andrew@chalkley.org>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "start": "node index.js"
   },
   "dependencies": {
     "@types/node-telegram-bot-api": "^0.61.3",
