@@ -1,0 +1,21 @@
+{
+  "name": "bitcoin-maxi-bot",
+  "version": "1.0.0",
+  "description": "Telegram Bitcoin Maximilist Bot",
+  "main": "index.js",
+  "author": "Andrew Chalkley <andrew@chalkley.org>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "@types/node-telegram-bot-api": "^0.61.3",
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "2.0.21",
+    "openai": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon":"2.0.22"
+  }
+}
